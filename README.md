@@ -30,7 +30,7 @@ Para comenzar con este proyecto, sigue estos pasos:
     
 ```bash
 git clone https://xxxx/Clean-Arch-DDD.git
-cd CleanArch
+cd Clean-Arch-DDD
 ```
 
 2. Abre la solución en tu IDE preferido (Visual Studio, Visual Studio Code, etc.).
