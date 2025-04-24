@@ -29,7 +29,7 @@ Para comenzar con este proyecto, sigue estos pasos:
 1. Clona el repositorio en tu máquina local (ejecutar los siguientes comandos en cmd o powershell):
     
 ```bash
-git clone https://github.com/jvaldezn/CleanArch.git
+git clone https://xxxx/Clean-Arch-DDD.git
 cd CleanArch
 ```
 
